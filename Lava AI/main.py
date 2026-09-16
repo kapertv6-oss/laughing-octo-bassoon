@@ -16,8 +16,8 @@ from sqlalchemy.orm import declarative_base, sessionmaker, Session
 from pydantic import BaseModel 
 
 # ================= КОНФИГУРАЦИЯ =================
-BOT_TOKEN = ""
-POLZA_AI_API_KEY = ""
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+POLZA_AI_API_KEY = os.getenv("POLZA_AI_API_KEY")
 ADMIN_ID = 8816073474
 
 # КАНАЛ ДЛЯ ПРОМОКОДОВ (Укажи @username или ID канала, бот ДОЛЖЕН быть там админом!)
