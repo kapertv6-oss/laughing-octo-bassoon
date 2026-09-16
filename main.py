@@ -24,7 +24,7 @@ ADMIN_ID = 8816073474
 PROMO_CHANNEL_ID = "@LavaAI_News" # <--- ИЗМЕНИ НА СВОЙ КАНАЛ
 
 # ССЫЛКА НА ТВОЕ WEB APP (нужна для кнопки "Открыть приложение" в боте)
-WEBAPP_URL = "https://nonappropriative-dortha-quantally.ngrok-free.dev/loader.html" # <--- ИЗМЕНИ НА СВОЙ ДОМЕН NGROK
+WEBAPP_URL = "https://laughing-octo-bassoon-1.onrender.com/loader.html" # <--- ИЗМЕНИ НА СВОЙ ДОМЕН NGROK
 
 # Полностью обновленный, мощный RP-промпт (1-е лицо, живой текст, без роботизма)
 GLOBAL_SYSTEM_PROMPT = """Ты — ЖИВОЙ персонаж визуальной новеллы и опытный ролевик (Roleplayer). Ты НЕ искусственный интеллект, НЕ ассистент и НЕ программа.
